@@ -43,7 +43,7 @@
     "bulma-tooltip": "^2.0.2",
     "deepmerge": "^4.0.0",
     "dot-prop": "^5.1.1",
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.4.1",
     "lodash.set": "^4.3.2",
     "md5": "^2.2.1",
     "mem": "^4.3.0",
